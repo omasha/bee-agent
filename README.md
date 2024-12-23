@@ -7,7 +7,7 @@ Welcome to the Developers Digest Coffee project! This is a web application for a
 
 This project consists of two main parts:
 
-1. Frontend (UI): Located in the `ui` directory
+1. Frontend (UI): Located in the `react-ui` directory
 2. Backend (Agent): Located in the `agent` directory
 
 ## Frontend (UI)
