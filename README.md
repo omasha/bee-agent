@@ -1,7 +1,17 @@
-
 # Developers Digest Coffee
 
 Welcome to the Developers Digest Coffee project! This is a web application for a coffee shop that caters specifically to developers, offering carefully curated coffee from America's top tech hubs.
+
+## Links
+[YouTube Tutorial](https://www.youtube.com/watch?v=hH7vY04LRZ4)
+
+[bee agent framework](https://github.com/i-am-bee/bee-agent-framework)
+
+[hosted Postgres provider](https://neon.tech/)
+
+[Groq Cloud free models](https://console.groq.com/settings/limits)
+
+Tutorial is using llama-3.3-70b-specdec
 
 ## Project Structure
 
